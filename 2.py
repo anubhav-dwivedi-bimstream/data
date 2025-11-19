@@ -1,0 +1,1 @@
+print("day 2: Environment ok")
