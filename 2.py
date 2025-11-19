@@ -1,1 +1,6 @@
-print("day 2: Environment ok")
+import os 
+
+def current_dir():
+    return os.getcwd()
+
+print("current directory:", current_dir())
